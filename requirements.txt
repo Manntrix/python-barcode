@@ -1,0 +1,4 @@
+pyzbar
+fastapi
+opencv-python
+uvicorn[standard]
